@@ -12,3 +12,10 @@ Secondly, the project examines the drivers of user sentiment about a brand’s s
 The final section includes an analysis about the effectiveness of Twitter as a corrective action (or medium of speech) to address sustainability concerns about brands. This analysis uses vizualization techniques to identify patterns between tweets by the brand along with the user tweets about the brands’ sustainability practices. 
 
 The analysis yields decent evidence indicating that tweets can indeed be used as corrective action, even if it’s for short-term benefit. However, as observed in the study, if the tweets are not backed by clear effort or action, then the mitigation efforts could easily backfire. Firms must not take the risk of “greenwashing” lightly.
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/codebyvictor/Fashion-Industry-Sentiment-Analysis/blob/dae51fdf17629f99c7052b169e85e7978bd67285/sustainability.png">
+</p>
+
